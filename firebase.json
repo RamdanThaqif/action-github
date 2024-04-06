@@ -7,7 +7,7 @@
       "**/node_modules/**"
     ],
 
-    "target": "TARGET_NAME",
+    "target": "hosting",
 
     "rewrites": [
       {
