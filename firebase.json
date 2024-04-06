@@ -7,7 +7,7 @@
       "**/node_modules/**"
     ],
 
-    "target": "public",
+    // "target": "public",
 
     "rewrites": [
       {
