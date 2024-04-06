@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "target": "partwizard",
     "public": "public",
     "ignore": [
       "firebase.json",
