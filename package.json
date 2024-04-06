@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
+  },
+  
+  "name": "es6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
   }
 }
+
+
