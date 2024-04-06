@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Implement CI/CD with Github Actions.",
   "main": "index.js",
-  "scripts": {
-    "build": "webpack --config webpack.config.js"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
