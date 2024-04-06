@@ -20,3 +20,5 @@ jobs:
           args: deploy --only hosting
         env:
           GCP_SA_KEY: ${{ secrets.FIREBASE_TOKEN }}
+        with:
+          credentials_json: ${{ env.GCP_SA_KEY }}
