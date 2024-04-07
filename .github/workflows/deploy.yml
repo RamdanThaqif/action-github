@@ -22,5 +22,6 @@ jobs:
         uses: w9jds/firebase-action@v13.0.3
         with:
           args: deploy --only hosting
+          projectId: super-nazif
         env:
           GCP_SA_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_HOSTING_DBABC }}
