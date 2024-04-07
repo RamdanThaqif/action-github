@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "super-nazif",
+    "site": "nazif",
     "public": "public",
     "ignore": [
       "firebase.json",
