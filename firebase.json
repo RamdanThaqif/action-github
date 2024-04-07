@@ -1,6 +1,6 @@
 {
-  "hosting": {
-    "site": "hosting-dbabc",
+  "nazif": {
+    "site": "super-nazif",
     "public": "public",
     "ignore": [
       "firebase.json",
