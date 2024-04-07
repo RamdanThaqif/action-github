@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "fireship-lessons"
+    "default": "fireship-lessons",
+    "nazif":"super-nazif"
   }
 }
