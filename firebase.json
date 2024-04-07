@@ -1,14 +1,11 @@
 {
   "hosting": {
-    // "site": "super-nazif",
-    "site": "super-nazif",
     "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
     ],
-
     "rewrites": [
       {
         "source": "**",
