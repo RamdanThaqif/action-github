@@ -24,3 +24,4 @@ jobs:
           args: deploy --only hosting
         env:
           GCP_SA_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_HOSTING_DBABC }}
+          projectId: super-nazif
