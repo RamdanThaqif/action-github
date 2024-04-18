@@ -6,6 +6,10 @@
   "scripts": {
     "build": "webpack --config webpack.config.js"
   },
+
+  "scripts": {"start": "http-server"},
+
+  
   "author": "",
   "license": "ISC",
   "dependencies": {
