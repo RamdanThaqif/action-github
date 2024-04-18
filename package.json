@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "http-server",
-    "build": "webpack"
+    // "build": "webpack"
   },
   
   // "name": "es6",
