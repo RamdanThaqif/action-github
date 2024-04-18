@@ -4,11 +4,15 @@
   "description": "Implement CI/CD with Github Actions.",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --config webpack.config.js"
+    "start": "http-server"
   },
-
-  "scripts": {"start": "http-server"},
-
+  
+  "name": "es6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
   
   "author": "",
   "license": "ISC",
@@ -16,6 +20,7 @@
     "express": "^4.19.2"
   },
   "devDependencies": {
+    "http-server": "^14.1.1",
     "webpack-cli": "^5.1.4"
   }
 }
