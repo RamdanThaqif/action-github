@@ -4,16 +4,17 @@
   "description": "Implement CI/CD with Github Actions.",
   "main": "index.js",
   "scripts": {
-    "start": "http-server"
+    "start": "http-server",
+    "build": "webpack",
   },
   
-  "name": "es6",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "build": "webpack",
-    "start": "http-server"
-  },
+  // "name": "es6",
+  // "version": "1.0.0",
+  // "main": "index.js",
+  // "scripts": {
+  //   "build": "webpack",
+  //   "start": "http-server"
+  // },
   
   "author": "",
   "license": "ISC",
