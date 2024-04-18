@@ -7,13 +7,12 @@
     "start": "http-server"
   },
   
-  "scripts": {"start": "http-server"},
-
   "name": "es6",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "start": "http-server"
   },
   
   "author": "",
